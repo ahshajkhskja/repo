@@ -33,7 +33,7 @@ local HttpService = game:GetService("HttpService")
 
 local scripts = {
 
-    {"Beyblade X Battle", "https://pastefy.app/mpUtyfoh/raw"},
+    {"Beyblade X Battle", "https://pastefy.app/1lWybhxt/raw"},
     {"[FREE UGC] Пятёрочка: АмНямания 2", "https://pastefy.app/8yhzgzQE/raw"},
     {"BBC Bitsize Planet Planners", "https://pastefy.app/ROQHD7Ws/raw"},
     {"Free UGC Rewards Obby", "https://pastefy.app/onaXzv8k/raw"},
